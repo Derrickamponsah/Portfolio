@@ -5,7 +5,7 @@ Welcome to my professional portfolio source code repository. This static website
 ## 🚀 About the Portfolio
 This portfolio was designed and developed with passion to present an intuitive, dynamic user experience with a sleek dark-themed frontend.
 
-* **Live Demo**: *Ensure to host index.html on GitHub pages or any static host*
+* **Live Demo**: [https://lively-pastelito-8308f8.netlify.app/](https://lively-pastelito-8308f8.netlify.app/)
 * **Architecture**: Single-page static website (HTML, CSS, JS)
 
 ## 🛠️ Technologies Showcased
@@ -22,15 +22,6 @@ The portfolio highlights my expertise in:
 - **CampusBooking Application**: Resource and facility management platform.
 - **Predictive Maintenance Model**: Advanced machine learning solution for proactive maintenance strategies.
 - **Hydroponics Environmental Controller**: IoT-based ML control system for hydroponic farming.
-
-## 📥 Local Setup
-To run this website locally:
-1. Clone the repository
-2. Run any simple HTTP server in the root directory. For example, using Python:
-   ```bash
-   python server.py
-   ```
-3. Visit `http://localhost:8000`
 
 ## 📫 Contact
 Feel free to reach out to me for opportunities or collaborations:
